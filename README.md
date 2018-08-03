@@ -11,3 +11,6 @@ they include :
 * Updating views
 * Properly scoping variables
 * Finding views by their ID
+
+# Project Specification
+Your project will be evaluated using [Football Scores App](https://review.udacity.com/#!/rubrics/157/view)
